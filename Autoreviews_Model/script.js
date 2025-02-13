@@ -14,7 +14,7 @@ const testimonials = [
   {
     name : "- Thompson",
     photoUrl : "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8cmV2aWV3JTIwcHJvZmlsZSUyMHBpY3R1cmVzfGVufDB8MXwwfHx8Mg%3D%3D",
-    text: "I am extremely satisfied with the laptops I purchased from apple. The sleek design and impressive performance exceeded my expectations. I highly recommend apple for anyone looking for quality tech products."
+    text: "I am extremely satisfied with the laptops I purchased from apple. The sleek design and impressive performance exceeded my expectations."
   },
 ]
 
