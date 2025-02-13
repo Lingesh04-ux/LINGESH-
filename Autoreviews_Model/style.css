@@ -9,8 +9,7 @@ body
 }
 .textbox
 {
-    margin: 0;
-    padding-top: 15%;
+    margin-top: 65px; 
 }
 .author
 {
@@ -23,12 +22,13 @@ body
     border-radius: 10px;
     box-shadow: 0 4px 15px rgb(0, 0, 0 ,0.3);
     width: 500px;
-    height: 200px;
+    height: 150px;
     min-width: 300px;
-    min-height: 100px;
+    min-height: 200px;
     margin: 5px;
     color: white;
     position: relative;
+    text-align: center;
 }
 .image
 {
